@@ -1,0 +1,20 @@
+  <a href="demo.html"><button id="to_video" type="button" class="btn btn-outline-dark">Model Prediction</button></a>
+    <a href="insighs.html"><button id="to_demonstration" type="button" class="btn btn-outline-dark">Model Architecture and optimization</button></a> 
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id='name'><p class="font-weight-normal">Siddharth Chikalkar</p></div>
+    <div id="git"><a href="https://github.com/Sid0925" class="stretched-link">GitHub</a></div>
+    <div id="Linkdin"><a href="https://www.linkedin.com/in/siddharth-chikalkar-7244141b0" class="stretched-link">Linkedin</a></div>
